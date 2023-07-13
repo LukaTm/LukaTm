@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 <p align="left">
    <a href="">
       <img alt="portfolio website" title="Portfolio" src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
-   <a href="">
-      <img alt="contact g-mail" src="https://custom-icon-badges.demolab.com/badge/-Gmail-red?style=for-the-badge&logo=mail&logoColor=white">
-   <a href="">
-      <img alt="contact g-mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.linkedin.com/in/markuss-luka%C5%A1ins-890180282/" target="_blank">
+      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 
@@ -50,7 +48,15 @@ Here are some ideas to get you started:
 
 #
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I am
+ <summary><h2>👨‍💻 My Coding Journey</h2></summary>
+My name is Markuss, and I am a Full-Stack developer. My first experience in programming began in 6th grade when I was introduced to Scratch. However, a classmate discouraged me, saying that pursuing a career in programming would be too difficult. As a result, I avoided it for a long time. It wasn't until 2022 that I started contemplating my career path and realized that my passion lay in computers and optimization.
+
+I decided to give programming another chance and started with Python. Initially, I didn't think much of it, but I knew that building something meaningful required more than just a one-hour tutorial. So, I delved deeper and tackled challenging problems. It was when I successfully solved difficult problems and built useful applications like calculator, blackjack game, and snake game that I experienced a breakthrough. It felt incredibly rewarding.
+
+From there, I embarked on various Python projects, including automation, web scraping, file reading, games, and quizzes. Eventually, I ventured into web development since it I've heard It's a skill you should have. However, after about three months of splitting my time between web development and Python, I had learned you should stick to one language and learn it well until you try other things. Thus, I decided to commit to web development. I did a bunch of tutorials from youtube, udemy courses and did a program called Odin Project which is project based. Learned basics of linux cli, git, HTML, CSS, JavaScript basics, then learned Intermediate HTML, CSS Concepts and did a Full JavaScript course. After that I learned Advanced HTML and CSS, learning animations and responsive design, then moving to doing a Full React course, also did 2 small react native projects. Then started learning backend technology, learning NodeJS, REST API, MonogDB, GraphQL. After learning and practing a bunch I build personal projects which are were interesting to me cause they were actually usefull for myself. Like Charades word generator with database and Transfer Spotify songs to YouTube songs which I created for myself.
+
+After sticking to web development and bulding many kinds of projects, to deepen my understanding of the underlying principles, I pursued a computer science course called CS50. The course goes in depth in various fundamental concepts and principles of computer science, providing a comprehensive understanding of programming, algorithms, data structures, and more. I learned that acquiring knowledge in a lower-level programming language like C establishes a strong base understanding of the fundamental workings of computers and software. Understanding these foundational principles is beneficial as it facilitates learning other languages more easily in the future.
+
+Currently, I am motivated by a strong desire for continuous improvement. I actively seek opportunities to enhance my coding skills and avoid complacency with easy or repetitive tasks. Challenging projects that push me beyond my comfort zone are what I strive for, as they provide valuable opportunities to acquire new skills and expertise. Embracing new concepts, techniques, and technologies is a top priority for me as I continue to expand my knowledge base and enhance my abilities.
 
 
