@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Get In Touch
 <p align="left">
-   <a href="https://main--markuss-portfolio.netlify.app/" target="_blank">
+   <a href="https://markuss-portfolio.netlify.app/" target="_blank">
       <img alt="portfolio website" title="Portfolio" src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
    <a href="https://www.linkedin.com/in/markuss-luka%C5%A1ins-890180282/" target="_blank">
       <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
